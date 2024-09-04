@@ -4,7 +4,9 @@
 1. Ajouter un Contact
 Le programme demande les informations suivantes pour chaque contact :
 
-      - Nom    - Numéro de téléphone   - Adresse e-mail
+      - Nom  
+      - Numéro de téléphone
+      -  Adresse e-mail
  
 
 2. Modifier un Contact
