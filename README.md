@@ -4,10 +4,10 @@
 1. Ajouter un Contact
 Le programme demande les informations suivantes pour chaque contact :
 
--Nom (chaîne de caractères)
--Numéro de téléphone (chaîne de caractères) 
--Adresse e-mail (chaîne de caractères)
--Ces informations sont stockées dans une structure Contact.
+- Nom.
+-Numéro de téléphone.
+-Adresse e-mail.  
+-Ces informations sont stockées dans une structure "Contact".
 
 2. Modifier un Contact
 Le programme permet à l'utilisateur de modifier les informations d'un contact existant. L'utilisateur peut modifier le numéro de téléphone et l'adresse e-mail en fonction du nom du contact.
