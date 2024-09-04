@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725412886 source:c:\users\pc\desktop\minipcontact\miniminipcontact\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
